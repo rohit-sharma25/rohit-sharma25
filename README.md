@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeonSync&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NeonSync&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-sharma25&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohit-sharma5&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 <p align="left">
   <a href="mailto:rohit.sharma.rnks@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-  <a href="https://www.linkedin.com/in/rohit-sharma-codes/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://www.linkedin.com/in/rohit-sharma225/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
   <a href="https://www.instagram.com/rohiittt.s/"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
 </p>
 
