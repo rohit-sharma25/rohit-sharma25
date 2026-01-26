@@ -24,9 +24,9 @@ I value **fundamentals, consistency, and execution** over hype.
 ### 🚀 Featured Projects
 
 - **AutoFixNow** – On-demand vehicle service web platform  
-  *HTML, CSS, JavaScript*  
+  *Python, Groq LLM, SQLite, Geopy*  
 - **Face Detection System** – Real-time face detection using OpenCV  
-  *Python, OpenCV*
+  *JavaScript, face-api.js, OpenCV, Python*
 
 (More projects in progress — focused on Python and real-world use cases.)
 
