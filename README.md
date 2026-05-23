@@ -2,7 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Rohit%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20•%20AI%20Builder%20•%20Frontend%20Engineer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Cinematic+Web+Experiences+⚡;Crafting+AI-Powered+Products+🤖;Transforming+Ideas+into+Reality+🚀;Frontend+Developer+with+Creative+Vision+🎨" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Cinematic+Web+Experiences;Crafting+AI-Powered+Products;Transforming+Ideas+into+Reality;Frontend+Developer+with+Creative+Vision" />
+
+</div>
 
 <br/>
 
@@ -13,8 +17,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rohit-sharma25&label=Profile%20Views&color=8A2BE2&style=flat" />
-
+<img src="https://raw.githubusercontent.com/rohit-sharma25/rohit-sharma25/main/banner.png" width="100%" />
 </div>
 
 ---
