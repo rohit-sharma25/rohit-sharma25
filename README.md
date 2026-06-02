@@ -21,26 +21,30 @@
 </div>
 
 ---
+## < Developer Profile />
 
-# ⚡ About Me
+```yaml
+name: Rohit Sharma
 
-I’m a **Computer Science student** and creative developer passionate about building  
-modern web experiences, AI-powered applications, and visually immersive digital products.
+role: Frontend Developer & AI Builder
 
-I enjoy transforming ideas into real-world projects — from intelligent AI systems  
-to cinematic frontend interfaces that feel alive and interactive.
+education:
+  B.Tech Computer Science
 
-Currently focused on:
-- ⚛️ Frontend Engineering
-- 🤖 AI Applications & RAG Systems
-- 🎨 UI/UX & Motion Design
-- 🧠 Scalable Product Development
-- 🚀 Building futuristic digital experiences
+currently_building:
+  - NovalAura
+  - AI Coding Mentor
+  - Voice Storytelling AI
 
-> *“I don’t just write code — I build experiences.”*
+interests:
+  - Artificial Intelligence
+  - Frontend Engineering
+  - Product Design
+  - Storytelling
 
----
-
+goal:
+  Build impactful digital experiences powered by AI
+```
 # 🚀 Featured Projects
 
 ## 🎬 Novelaura
@@ -128,44 +132,25 @@ https://github.com/rohit-sharma25/face-detection
 </div>
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-sharma25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-sharma25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-sharma25&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-sharma25&theme=github_dark"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohit-sharma25&show_icons=true&bg_color=000000&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-sharma25&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=ffffff&hide_border=true"/>
 
 </div>
-
 ---
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
-<div align="center">
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohit-sharma25&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/rohit-sharma25)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohit-sharma25&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 # 🌌 Philosophy
 
