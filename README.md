@@ -146,10 +146,9 @@ https://github.com/rohit-sharma25/face-detection
 
 </div>
 ---
-
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/rohit-sharma25/rohit-sharma25/output/github-contribution-grid-snake-dark.svg)
 
 
 # 🌌 Philosophy
