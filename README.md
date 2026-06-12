@@ -47,18 +47,6 @@ goal:
 ```
 # 🚀 Featured Projects
 
-## 🎬 Novelaura
-AI-powered cinematic storytelling platform focused on immersive narratives,  
-emotion-driven scenes, and visual storytelling experiences.
-
-**Tech Stack:**  
-`React` `AI APIs` `Modern UI/UX` `Interactive Design`
-
-🔗 **Project Link:**  
-https://github.com/rohit-sharma25
-
----
-
 ## 🚗 AutoFixNow
 On-demand vehicle service platform connecting users with nearby mechanics  
 for emergency roadside assistance and real-time support.
@@ -67,7 +55,7 @@ for emergency roadside assistance and real-time support.
 `React` `Firebase` `Responsive UI` `Location Services`
 
 🔗 **Live Demo:**  
-https://autofiixnow.netlify.app/
+https://autofixnow.onrender.app/
 
 ---
 
@@ -91,8 +79,7 @@ with clean UI and real-time tracking.
 `JavaScript` `Frontend Development` `UI Design`
 
 🔗 **Project Link:**  
-https://github.com/rohit-sharma25/Expensifier
-
+https://expensifier-ashy.vercel.app/
 ---
 
 ## 🧠 FaceInsight
@@ -102,8 +89,7 @@ Real-time face & emotion detection application using AI and computer vision.
 `Python` `OpenCV` `Deep Learning`
 
 🔗 **Project Link:**  
-https://github.com/rohit-sharma25/face-detection
-
+(https://face-recognition-git-main-rohit-s-projects-0ba6e1fb.vercel.app/)
 ---
 
 # 🛠 Currently Building
