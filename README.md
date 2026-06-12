@@ -80,6 +80,7 @@ with clean UI and real-time tracking.
 
 🔗 **Project Link:**  
 https://expensifier-ashy.vercel.app/
+
 ---
 
 ## 🧠 FaceInsight
@@ -89,7 +90,8 @@ Real-time face & emotion detection application using AI and computer vision.
 `Python` `OpenCV` `Deep Learning`
 
 🔗 **Project Link:**  
-(https://face-recognition-git-main-rohit-s-projects-0ba6e1fb.vercel.app/)
+https://face-recognition-git-main-rohit-s-projects-0ba6e1fb.vercel.app/
+
 ---
 
 # 🛠 Currently Building
