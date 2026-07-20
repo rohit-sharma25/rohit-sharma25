@@ -48,7 +48,7 @@ My goal: become a **world-class AI Engineer** who builds products at the level o
 🌱  Deepening expertise in LangChain, Vector DBs & Agentic workflows
 👯  Looking to collaborate on Open Source AI / Full-Stack projects
 💬  Ask me about: Generative AI, RAG, AI Agents, Flask/FastAPI, React
-📫  Reach me at: your-email@example.com
+📫  Reach me at: rohit.sharma.rnks@gmail.com
 🏆  Team Leader @ AI Hackathon | Pitched AutoFixNow at a National AI Event
 ⚡  Fun fact: I'd rather debug an AI agent at 2 AM than watch Netflix
 ```
@@ -133,25 +133,6 @@ Connects stranded drivers with nearby mechanics in real time.
 🏆 *Pitched at a National-Level AI Event*
 
 </td>
-<td width="50%" valign="top">
-
-### 📖 [NovalAura](https://github.com/rohit-sharma25/NovalAura)
-**AI-powered storytelling & audiobook platform**
-
-A multi-modal universe for readers, listeners, and writers.
-
-- 🎧 Story Listening + 📚 Story Reading Modes
-- ✍️ Writer Community & Publishing Pipeline
-- 🌐 Multi-language & Interactive Story Experience
-- 🤖 AI-Enhanced Reader / Listener / Writer Modes
-
-`React` `Firebase` `AI APIs`
-
-👥 *Built with Simran Kanwar & Sakshi Soni*
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏥 [MediAI OS](https://github.com/rohit-sharma25/MediAI-OS)
