@@ -25,8 +25,8 @@ class RohitSharma:
         self.role        = "AI Engineer · Full Stack Developer"
         self.education   = "B.Tech Computer Science @ JIET, India"
         self.location    = "Jodhpur, India 🇮🇳"
-        self.building    = ["Edith", "MediAI OS", "NovalAura"]
-        self.mission     = "Build AI products used by millions"
+        self.building    = ["Edith", "MediAI OS", "AutoFixNow"]
+        self.mission     = "Building AI products which will be used by millions"
 
     def current_status(self):
         return "Shipping, leading hackathon teams & learning in public 🚀"
