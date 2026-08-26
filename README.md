@@ -94,7 +94,7 @@ An intelligent agent that helps manage tasks, research, and workflows.
 </tr>
 <td width="50%" valign="top">
 
-### 🏥 [MediAI OS](https://github.com/YOUR_GITHUB_USERNAME/MediAI-OS)
+### 🏥 [MediAI OS](https://github.com/rohit-sharma25/MediAI-OS)
 **AI-powered healthcare operating system**
 
 RAG-powered multi-agent system for healthcare assistance.
