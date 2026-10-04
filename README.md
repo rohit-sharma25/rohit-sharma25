@@ -131,7 +131,7 @@ Voice-enabled hospital navigation assistant for patients.
 <div align="center">
 <br/><br/>
 
-[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-%236a0dad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-%236a0dad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit-sharma25?tab=repositories)
 
 <br/><br/>
 <em>10+ projects shipped.<br/>Every one has a working backend.</em>
@@ -185,7 +185,7 @@ Voice-enabled hospital navigation assistant for patients.
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohit-sharma25&theme=radical&no-frame=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohit-sharma25&theme=radical&no-frame=true&margin-w=10&row=1&column=7)](https://github.com/rohit-sharma25/github-profile-trophy)
 
 </div>
 
